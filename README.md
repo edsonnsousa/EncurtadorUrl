@@ -1,2 +1,8 @@
 # EncurtadorUrl
-Encurtador de Link em python+ URLlib
+Encurtador de Link Utilizando:
+
+- Python
+
+- URLlib
+
+- API
